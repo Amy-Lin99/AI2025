@@ -200,7 +200,7 @@ FACEBOOK.COM
 
 ---
 ## *挑戰題：請提供GPT您的個人背景資料, 包含姓名, 出生地, 學經歷, 主修, 專長等資料, 請GPT幫您寫1份約1000字的自傳及生成您個人的求職履歷表, 中文及英文版。
-### 自傳Autobiography
+### 自傳
 我叫林妤柔，出生於 2005 年 9 月 9 日，來自臺南，現就讀於國立臺北大學法律系法學組一年級。從小我對社會議題和公平正義有著濃厚的興趣，這份興趣在求學過程中逐漸轉變為對法律的熱忱。我相信法律不僅是維護社會秩序的重要工具，更是促進社會公平與正義的基礎，因此我選擇進入法律系，希望透過專業知識為社會帶來正向的改變。
 
 **🌱 成長背景與學習歷程**
@@ -270,7 +270,7 @@ I plan to participate in legal internships during my college years to enhance my
 
 I believe that the law is a powerful tool that can uphold social order and protect individuals' rights. In the future, I aspire to become a legal professional who can provide expert legal services and contribute positively to society by transforming legal knowledge into concrete action.
 
-### 履歷表Resume
+### 履歷表
 
 **📌 個人資料**
 
@@ -312,7 +312,7 @@ I believe that the law is a powerful tool that can uphold social order and prote
 
 - 對法律領域充滿熱忱，持續精進專業知識
 
-### ***Resume***
+### *Resume*
 **📌 Personal Information**
 
 - Name: Lin Yu-Jou

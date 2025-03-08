@@ -235,11 +235,11 @@ FACEBOOK.COM
 
 我相信，法律是一項強大的工具，能夠維護社會秩序，並幫助個人在爭議中獲得公平對待。未來，我希望成為一位能夠為社會提供專業法律服務的法律人，將法律知識轉化為實際行動，為社會帶來正面的影響。
 
--
-
+### Autobiography
 My name is Lin Yu-Jou. I was born on September 9, 2005, in Tainan, Taiwan. I am currently a first-year student in the Department of Law at National Taipei University. From a young age, I have been interested in social issues and justice, which gradually developed into a passion for law. I believe that law is not only an essential tool for maintaining social order but also a foundation for promoting fairness and justice. This belief led me to choose law as my major, hoping that my professional knowledge will bring positive changes to society.
 
 **🌱 Background and Learning Experience**
+
 I grew up in Tainan in a family that values integrity and responsibility. My parents taught me from an early age to be organized and accountable, which helped me develop independent thinking and problem-solving skills. In junior high school, I began to show interest in social issues and paid close attention to news reports, especially those related to law and human rights. This early interest sparked my curiosity about the legal system and judicial processes.
 
 During high school at Tainan Girls' Senior High School, I joined the debate club to train my logical thinking and communication skills. I participated in several small debate competitions within the school, where I learned to analyze arguments, organize my thoughts, and express my viewpoints clearly under time pressure. These experiences not only strengthened my critical thinking and adaptability but also taught me to remain calm and composed in challenging situations.
@@ -247,6 +247,7 @@ During high school at Tainan Girls' Senior High School, I joined the debate club
 In addition to debate, I also participated in mock trials. These activities provided me with a deeper understanding of legal practice. From drafting legal documents and gathering evidence to presenting arguments in court, I experienced the real-world application of legal knowledge. I once served as a defense attorney in a mock trial, where I had to analyze case details and apply legal provisions to defend my client. This experience enhanced my understanding of the practical side of the law and solidified my ambition to pursue a career in the legal field.
 
 **🎯 Exploration and Growth in University**
+
 After entering National Taipei University, I have continued to explore different fields of law, hoping to identify the most suitable professional direction for myself. To deepen my understanding of legal theory and practice, I joined both the Legal Research Club and the Legal Service Club.
 
 In the Legal Research Club, I have engaged in discussions on legal theory and judicial practices, encountering diverse perspectives and enhancing my analytical and critical thinking skills. I have participated in case studies related to criminal and civil law, working with classmates to explore different interpretations and applications of legal provisions. These discussions have given me a deeper insight into the legislative intent behind legal norms.
@@ -254,6 +255,7 @@ In the Legal Research Club, I have engaged in discussions on legal theory and ju
 In the Legal Service Club, I have participated in legal aid activities, assisting people with legal issues such as consumer disputes and lease agreements. Through direct contact with clients, I learned how to provide professional legal advice while maintaining patience and empathy. This experience taught me that the law is not only a tool for maintaining order but also a valuable resource for helping people resolve conflicts.
 
 **🏆 Personal Traits and Abilities**
+
 I consider myself to be logical, organized, and highly responsible—qualities that have proven valuable in both academic and practical settings. When facing problems, I tend to analyze them calmly and seek solutions from multiple perspectives. My attention to detail allows me to handle legal documents and case materials with accuracy and precision.
 
 Moreover, my communication and presentation skills have been honed through debate and mock trials, enabling me to explain legal concepts clearly to people from different backgrounds. I believe these skills will be invaluable in my future legal career, whether as a lawyer, judge, or other legal professional.
@@ -261,6 +263,7 @@ Moreover, my communication and presentation skills have been honed through debat
 In terms of language proficiency, my English is at an intermediate level, but I am working on improving my listening, speaking, reading, and writing skills. Additionally, I am learning Japanese, aiming to combine my language skills with legal expertise to broaden my international perspective and handle cross-border legal issues. I am also proficient in basic document processing, which allows me to efficiently organize and present legal information.
 
 **🚀 Future Goals and Outlook**
+
 Although I am still exploring different areas of law, I am determined to find my specialization, whether in civil law, criminal law, or international law. I aim to build a solid foundation in legal knowledge during my university years and accumulate practical experience through internships and real-world cases.
 
 I plan to participate in legal internships during my college years to enhance my practical skills and gain exposure to various types of cases. I also intend to continue engaging in mock trials and debate competitions to further develop my analytical and communication abilities.
@@ -309,8 +312,7 @@ I believe that the law is a powerful tool that can uphold social order and prote
 
 - 對法律領域充滿熱忱，持續精進專業知識
 
--
-
+### Resume
 **📌 Personal Information**
 
 - Name: Lin Yu-Jou

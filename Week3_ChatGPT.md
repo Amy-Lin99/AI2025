@@ -235,7 +235,7 @@ FACEBOOK.COM
 
 我相信，法律是一項強大的工具，能夠維護社會秩序，並幫助個人在爭議中獲得公平對待。未來，我希望成為一位能夠為社會提供專業法律服務的法律人，將法律知識轉化為實際行動，為社會帶來正面的影響。
 
-### Autobiography
+### *Autobiography*
 My name is Lin Yu-Jou. I was born on September 9, 2005, in Tainan, Taiwan. I am currently a first-year student in the Department of Law at National Taipei University. From a young age, I have been interested in social issues and justice, which gradually developed into a passion for law. I believe that law is not only an essential tool for maintaining social order but also a foundation for promoting fairness and justice. This belief led me to choose law as my major, hoping that my professional knowledge will bring positive changes to society.
 
 **🌱 Background and Learning Experience**
@@ -312,7 +312,7 @@ I believe that the law is a powerful tool that can uphold social order and prote
 
 - 對法律領域充滿熱忱，持續精進專業知識
 
-### Resume
+### ***Resume***
 **📌 Personal Information**
 
 - Name: Lin Yu-Jou

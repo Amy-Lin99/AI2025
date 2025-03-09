@@ -286,7 +286,7 @@ I believe that the law is a powerful tool that can uphold social order and prote
 
 - 國立臺北大學 法律系法學組（一年級）
 
-- 臺南女中
+- 國立臺南女中
 
 **📌 社團經歷**
 

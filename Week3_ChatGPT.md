@@ -209,15 +209,13 @@ FACEBOOK.COM
 
 高中就讀於臺南女中時，我選擇加入辯論社，希望透過辯論訓練自己的邏輯思維與表達能力。在辯論社中，我參與了數場校內小型辯論賽，過程中學會如何在短時間內快速分析論點、組織邏輯，並清晰表達觀點。我發現，每次比賽的過程不僅鍛鍊了我的臨場反應，也培養了我在壓力下保持冷靜與專注的能力。
 
-除了辯論社，我也參加了模擬法庭活動。模擬法庭讓我對法律的實務運作有了更深入的認識。從起草訴狀、收集證據到法庭辯論，每一個環節都考驗著我的耐心和邏輯思維。我曾在模擬法庭中擔任辯護律師的角色，透過分析案件細節，找出有利的法條來為當事人辯護。這段經歷讓我更清楚地了解到法律條文在實務中的適用方式，也讓我對於未來朝向法律職業的目標更加明確。
+除了辯論社，我也參加了模擬法庭活動。模擬法庭讓我對法律的實務運作有了更深入的認識。從起草訴狀、收集證據到法庭辯論，每一個環節都考驗著我的耐心和邏輯思維。我曾在模擬法庭中擔任國民法官的角色。在這個過程中，我必須仔細分析案件細節，理解法律規範，並以公正客觀的立場來評估證據和案件爭點。透過模擬法庭的經驗，我加強了法律推理能力，並對司法程序有了更深入的了解。這段經歷讓我更加確定自己對法律實務的興趣，並培養了在法律框架下進行理性判斷的能力。
 
 **🎯 大學時期的探索與成長**
 
 進入國立臺北大學法律系後，我持續探索不同的法律領域，期望找到最適合自己的專業方向。為了提升法律素養，我加入了法律研究社與法律服務社。
 
-在法律研究社中，我參與了與法學理論和司法實務相關的討論，接觸到不同的法律見解和學術觀點，培養了我批判性思考和多角度分析問題的能力。我曾針對刑法、民法等法條進行案例分析，並與同學共同討論各種可能的法律適用方式，這讓我對法條背後的立法目的有了更深層的理解。
-
-在法律服務社中，我參與了基層法律服務活動，協助民眾處理法律問題。這些問題涵蓋消費糾紛、租賃契約爭議等民法相關案件。在與當事人接觸的過程中，我學會了如何以專業的角度提供法律建議，同時保持耐心與同理心。這段經驗讓我體會到，法律不僅是維護秩序的工具，更是幫助他人解決困難的重要資源。
+在法律服務社中，我參與了基層法律服務活動，協助民眾處理法律問題。這些問題涵蓋各種案件。在與當事人接觸的過程中，我學會了如何以專業的角度提供法律建議，同時保持耐心與同理心。這段經驗讓我體會到，法律不僅是維護秩序的工具，更是幫助他人解決困難的重要資源。
 
 **🏆 個人特質與能力**
 
@@ -244,15 +242,13 @@ I grew up in Tainan in a family that values integrity and responsibility. My par
 
 During high school at Tainan Girls' Senior High School, I joined the debate club to train my logical thinking and communication skills. I participated in several small debate competitions within the school, where I learned to analyze arguments, organize my thoughts, and express my viewpoints clearly under time pressure. These experiences not only strengthened my critical thinking and adaptability but also taught me to remain calm and composed in challenging situations.
 
-In addition to debate, I also participated in mock trials. These activities provided me with a deeper understanding of legal practice. From drafting legal documents and gathering evidence to presenting arguments in court, I experienced the real-world application of legal knowledge. I once served as a defense attorney in a mock trial, where I had to analyze case details and apply legal provisions to defend my client. This experience enhanced my understanding of the practical side of the law and solidified my ambition to pursue a career in the legal field.
+In addition to debate, I also participated in mock trials. These activities provided me with a deeper understanding of legal practice. From drafting legal documents and gathering evidence to presenting arguments in court, I experienced the real-world application of legal knowledge. I once served as a lay judge (citizen judge). This role required me to analyze case details carefully, understand the legal framework, and evaluate evidence from an impartial perspective. By engaging in mock trials, I enhanced my ability to apply legal reasoning in real-world scenarios and gained insights into the responsibilities of a judge. This experience solidified my interest in the judicial process and strengthened my analytical skills.
 
 **🎯 Exploration and Growth in University**
 
 After entering National Taipei University, I have continued to explore different fields of law, hoping to identify the most suitable professional direction for myself. To deepen my understanding of legal theory and practice, I joined both the Legal Research Club and the Legal Service Club.
 
-In the Legal Research Club, I have engaged in discussions on legal theory and judicial practices, encountering diverse perspectives and enhancing my analytical and critical thinking skills. I have participated in case studies related to criminal and civil law, working with classmates to explore different interpretations and applications of legal provisions. These discussions have given me a deeper insight into the legislative intent behind legal norms.
-
-In the Legal Service Club, I have participated in legal aid activities, assisting people with legal issues such as consumer disputes and lease agreements. Through direct contact with clients, I learned how to provide professional legal advice while maintaining patience and empathy. This experience taught me that the law is not only a tool for maintaining order but also a valuable resource for helping people resolve conflicts.
+In the Legal Service Club, I have participated in legal aid activities, assisting people with various legal issues. Through direct contact with clients, I learned how to provide professional legal advice while maintaining patience and empathy. This experience taught me that the law is not only a tool for maintaining order but also a valuable resource for helping people resolve conflicts.
 
 **🏆 Personal Traits and Abilities**
 

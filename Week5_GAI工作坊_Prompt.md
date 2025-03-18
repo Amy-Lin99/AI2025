@@ -2,19 +2,24 @@
 ## **所屬分類 1：漫畫與卡通風格**
 ### [Lab 1: 卡通角色設計]
 **「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」**
-
-![image](https://github.com/user-attachments/assets/3cb5ab79-6822-47ef-a7e6-6c9c4c857e49)![image](https://github.com/user-attachments/assets/991f2c49-f44f-4eb8-8b61-9bfb3847f6b0)![image](https://github.com/user-attachments/assets/325e2405-6e4a-42a0-9eef-4399c6829533)
-
+![image](https://github.com/user-attachments/assets/3cb5ab79-6822-47ef-a7e6-6c9c4c857e49)
 ### **問題:**
-
 卡通角色的誇張特徵如何影響觀眾的情緒和角色塑造？請舉例說明，並探討如何微調特徵來改變角色的個性與情感表達。
+
+**「一隻憂鬱的卡通狗，流著淚，充滿陰鬱和沮喪的表情。」**
+![image](https://github.com/user-attachments/assets/99859f00-6682-41c5-a0da-8b5f015ea814)
 
 ### [Lab 2: 超級英雄漫畫風格]
 **「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」**
 
+![image](https://github.com/user-attachments/assets/f42d110f-40e5-4cc2-a647-4e7021f3531c)
+
 ### **問題:**
 
 在設計超級英雄角色時，如何調整色彩、動作與服裝設計來強調其個性與超能力？請舉例分析不同風格的超級英雄對比。
+
+**「一位超級英雄飛過小鎮，粗體線條和黑白色彩，具有日本漫畫風格。」**
+![image](https://github.com/user-attachments/assets/3d51c961-33ec-46da-9c62-7df4de2ece53)
 
 ---
 ## **所屬分類 2：基礎寫實風景系列**

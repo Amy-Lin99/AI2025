@@ -3,9 +3,7 @@
 ### [Lab 1: 卡通角色設計]
 **「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」**
 
-![image](https://github.com/user-attachments/assets/3cb5ab79-6822-47ef-a7e6-6c9c4c857e49)
-![image](https://github.com/user-attachments/assets/991f2c49-f44f-4eb8-8b61-9bfb3847f6b0)
-![image](https://github.com/user-attachments/assets/325e2405-6e4a-42a0-9eef-4399c6829533)
+![image](https://github.com/user-attachments/assets/3cb5ab79-6822-47ef-a7e6-6c9c4c857e49)![image](https://github.com/user-attachments/assets/991f2c49-f44f-4eb8-8b61-9bfb3847f6b0)![image](https://github.com/user-attachments/assets/325e2405-6e4a-42a0-9eef-4399c6829533)
 
 ### **問題:**
 

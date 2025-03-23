@@ -228,7 +228,123 @@
 **「生成一個夜晚下過雨後的城市街道，路面濕潤，燈光在水面上反射，行人車輛匆匆。」**
 ![image](https://github.com/user-attachments/assets/bcf4f5b6-9d8f-4be4-80cd-61a1685c17d5)
 
+### [Lab 18: 黃昏景象]
+**「生成一個黃昏時刻的公園，橙色的夕陽光線穿透樹葉，整個場景充滿溫暖。」**
+![image](https://github.com/user-attachments/assets/61d98a58-82bd-4da0-b91b-69671a13f611)
 
+**問題:**
 
+黃昏場景如何透過色調與光影營造寧靜與溫暖的情感？請設計一個繁忙都市黃昏與一個鄉村田園黃昏的提示語，並比較它們的視覺效果。
+
+**「生成一個黃昏時刻的繁忙都市，橙色的夕陽光線穿梭建築之間，整個場景充滿溫暖」**
+![image](https://github.com/user-attachments/assets/7cf7e9bd-0a0c-4146-afe3-b2b735170fe7)
+**「生成一個黃昏時刻的鄉村田園，橙色的夕陽光線照耀稻田，整個場景充滿溫暖」**
+![image](https://github.com/user-attachments/assets/7a62cb1d-dfb1-4791-990d-352f43534fd3)
+
+---
+## 所屬分類 A ：自然動態細節捕捉
+### [Lab 19: 動態水流效果]
+**「生成一個湍急的河流景象，水流快速運動，並且可以清晰看到水花飛濺。」**
+![image](https://github.com/user-attachments/assets/aa945eef-98b8-47be-80a6-1f52a7b3c55e)
+
+**問題:**
+
+如何利用光影與模糊效果來模擬微風吹拂的感覺？請設計一個樹葉靜止與一個樹葉隨風飄動的提示語，並分析其動態感的視覺呈現。
+
+**「生成一個平靜的湖泊景象，水面平靜無波。」**
+![image](https://github.com/user-attachments/assets/89fb7462-be37-44cc-9748-449bdd9bf0b5)
+**「生成一個垂直瀉下的瀑布水流，水流快速運動，並且可以清晰看到水花飛濺。」**
+![image](https://github.com/user-attachments/assets/f19e697e-3826-4a1b-8451-df6033a21685)
+
+### [Lab 20: 自然動態（樹葉搖曳）]
+**「生成一片在微風中輕輕搖曳的樹葉，顯示出自然的動態效果。」**
+![image](https://github.com/user-attachments/assets/01ef4470-c71c-4388-91df-ed9e24334e8c)
+
+**問題:**
+
+在都市環境中，雨後的視覺效果如何影響畫面的情緒表達？請設計一個清晨雨後與一個夜晚雨後的提示語，並分析它們如何影響場景氛圍。
+
+**「生成一片平靜無風中靜止的樹葉。」**
+![image](https://github.com/user-attachments/assets/ffa3c149-c17c-414c-9428-037943296b23)
+
+**「生成一片隨風飄動的樹葉，顯示出自然的動態效果。」**
+![image](https://github.com/user-attachments/assets/0e36d4c7-f224-49d9-8af6-599c9b17e7ec)
+
+---
+## 所屬分類 B：品牌設計與形象塑造
+### [Lab 21: 企業 Logo 設計]
+**「為一個科技公司設計一個簡潔的 Logo，主題強調科技感和創新，配色以藍色和銀色為主。」**
+![image](https://github.com/user-attachments/assets/af1e51fa-2311-4fb9-8fdf-123b26028b90)
+
+**問題:**
+
+如何透過形狀與色彩選擇來影響 Logo 的品牌認知？請設計一個適合金融機構與一個適合遊戲公司的 Logo 提示語，並分析它們的差異。
+
+**「為一個金融機構設計一個簡潔的 Logo，主題強調專業性和信任感，配色以深藍色和金色為主。」**
+![image](https://github.com/user-attachments/assets/d964b2c2-1b13-4b33-8cdd-b0900c7e99ea)
+**「為一個遊戲公司設計一個簡潔的 Logo，主題強調動感和創意，配色以鮮豔的紅色和黑色為主。」**
+![image](https://github.com/user-attachments/assets/8b147272-8a9e-42ba-86d7-2369a18d8381)
+
+---
+## 所屬分類 C：廣告與行銷設計
+### [Lab 22: 社交媒體廣告設計]
+**「為一款新推出的智慧手機設計一張吸引人的社交媒體廣告，突顯產品的科技感與高端設計。」**
+![image](https://github.com/user-attachments/assets/f47f1883-e557-485b-8d1a-6c3e576a05bd)
+
+**問題:**
+
+如何調整色彩與排版來影響廣告的吸引力？請設計一個高對比色彩的廣告與一個低對比色彩的廣告，並比較它們的視覺影響。
+
+**「為一款新推出的智慧手機設計一張高對比色彩並吸引人的社交媒體廣告，突顯產品的科技感與高端設計。」**
+![image](https://github.com/user-attachments/assets/00fbc287-acd2-4b01-8de9-4d18c987c13e)
+**「為一款新推出的智慧手機設計一張低對比色彩並吸引人的社交媒體廣告，突顯產品的科技感與高端設計。」**
+![image](https://github.com/user-attachments/assets/1929206f-eab5-4c79-b307-f32f561de574)
+
+---
+## 所屬分類 D：產品展示與包裝設計
+### [Lab 23: 3D 產品展示]
+**「生成一個新型筆記本電腦的 3D 展示圖，展示多角度視圖並強調設計的創新點。」**
+![image](https://github.com/user-attachments/assets/32af457f-9e8c-4fee-a323-c8ee6ad15adf)
+
+**問題:**
+
+如何選擇合適的視角來增強產品的立體感與真實感？請設計一個正面視角與一個 45 度角視角的產品展示圖，並分析其視覺差異。
+
+**「生成一個新型筆記本電腦的 3D 展示圖，展示正面視角並強調設計的創新點。」**
+![image](https://github.com/user-attachments/assets/3f317f2f-71e2-471b-8784-746f30b41f80)
+**「生成一個新型筆記本電腦的 3D 展示圖，展示45度視角並強調設計的創新點。」**
+![image](https://github.com/user-attachments/assets/abf2a411-d71f-4226-9d94-65367ade022c)
+
+---
+## 所屬分類 E：進階與整合實驗
+### [Lab 24: 多風格融合與自訂敘事實驗]
+**「在一個充滿蒸汽龐克元素的未來城市中，融合古典建築的優雅與超現實夢境般的色彩，故事中的主角是一位穿著融合現代與復古風格的探險家，在霧氣瀰漫的街道中尋找失落的文明。」**
+![image](https://github.com/user-attachments/assets/83e1d553-3604-4da1-af98-197bfa2a8bb4)
+
+**問題:**
+
+如何選擇並組合不同藝術風格，使其在單一畫面中和諧共存？請設計兩個融合不同風格（如巴洛克 + 科幻、未來都市 + 中世紀）的提示語，並分析它們的視覺與敘事效果。
+
+**「在一個融合巴洛克風格與科幻元素的未來城市中，華麗的雕刻與曲線建築交織，色彩斑斕且充滿未來感的光影映照著街道。故事中的主角是一位穿著精緻巴洛克風格與現代科技裝備相融合的探險家，穿行於璀璨的城市間，尋找被遺忘的高科技文明的遺跡。」**
+![image](https://github.com/user-attachments/assets/c0ee1b6f-7e5f-4d88-9ab7-c80c65a0a0f6)
+**「在一個融合未來都市與中世紀風格的城市中，鋼鐵與玻璃的摩天大樓與古老的石砌城牆交錯，街道上充斥著先進的科技與古典的騎士風情。故事中的主角是一位身穿現代高科技盔甲與中世紀風格長袍相結合的探險家，穿梭於這座古老與未來並存的城市，追尋失落的歷史與科技遺產。」**
+![image](https://github.com/user-attachments/assets/8cf963cc-570f-4314-b13e-2acf624a3538)
+
+## [Lab 25: 跨領域創新應用實戰]
+**「為一家新創科技公司設計一整套品牌視覺，包括企業 Logo、產品包裝與社交媒體宣傳圖，圖像需融合極簡現代風格與未來都市感，並展現科技創新的核心精神，整體色調以冷藍與金屬灰為主。」**
+![image](https://github.com/user-attachments/assets/44feaf2a-eed2-43f1-8298-7e4b66c5094e)
+
+**問題:**
+
+如何確保品牌識別的視覺一致性，使 Logo、產品包裝與廣告在不同媒介中仍保持統一性？請設計兩組不同品牌視覺方案（如高端科技品牌 vs. 創意生活品牌），並比較它們的視覺風格差異。
+
+**「為一家新創科技公司設計一整套高端科技品牌視覺，包括企業 Logo、產品包裝與社交媒體宣傳圖，圖像需融合極簡現代風格與未來都市感，並展現科技創新的核心精神，整體色調以冷藍與金屬灰為主。」**
+![image](https://github.com/user-attachments/assets/e4e55b88-4a41-4c9f-aae7-1c434995ef26)
+**「為一家新創科技公司設計一整套創意生活品牌視覺，包括企業 Logo、產品包裝與社交媒體宣傳圖，圖像需融合極簡現代風格與未來都市感，並展現科技創新的核心精神，整體彩色為主。」**
+![image](https://github.com/user-attachments/assets/c2c202a8-89ff-4075-85c6-4b39bb6b9890)
+
+### [Lab 26: 精確複製與提示語優化實戰]
+**原始圖像**
+![image](https://github.com/user-attachments/assets/c324ba28-aec1-4774-b341-a975c1637b10)
 
 

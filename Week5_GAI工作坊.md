@@ -258,7 +258,7 @@
 
 ### [Lab 20: 自然動態（樹葉搖曳）]
 **「生成一片在微風中輕輕搖曳的樹葉，顯示出自然的動態效果。」**
-![image](https://github.com/user-attachments/assets/01ef4470-c71c-4388-91df-ed9e24334e8c)
+![image](https://github.com/user-attachments/assets/f3fdd0f7-d233-4a03-ae3a-2965371d05de)
 
 **問題:**
 

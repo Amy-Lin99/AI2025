@@ -347,4 +347,7 @@
 **原始圖像**
 ![image](https://github.com/user-attachments/assets/c324ba28-aec1-4774-b341-a975c1637b10)
 
-
+**「幫我生成一張封面有high-end organic food、綠色葉子和4個綠色有機等標誌，呈長方形綠色標示的長方形包裹，外面頂上的包裝有類似木頭的紋路，放在木頭地板上，包裹向右傾斜45度擺放，燈光由上而下照下」**
+![image](https://github.com/user-attachments/assets/8931d830-b7b5-4929-9b9f-f8079471cb10)
+**「幫我生成一張封面有high-end organic food、綠色葉子和4個綠色有機等標誌，呈長方形綠色標示的立體長方形包裹，形狀像本很厚的書，外面頂上那面的包裝有類似木頭的紋路，其他面試平滑的木頭顏色沒有紋路，放在木頭地板上，包裹向右傾斜45度擺放，燈光由上而下照下」**
+![image](https://github.com/user-attachments/assets/6db0f3c2-c0ec-4361-b4c7-1ff6618ae080)

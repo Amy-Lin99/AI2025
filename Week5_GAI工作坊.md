@@ -61,28 +61,35 @@
 ## **所屬分類 3：印象派與表現主義**
 ### [Lab 5: 印象派風景]
 **「以克勞德·莫內風格呈現的河邊景象，柔和的筆觸和明亮的色彩，水面倒映著天空。」**
-![image](https://github.com/user-attachments/assets/e3c7dc2e-2235-42a5-a268-0789da9ad9eb)
+
+<img src="https://github.com/user-attachments/assets/e3c7dc2e-2235-42a5-a268-0789da9ad9eb" alt="image" width="400"> 
 
 **問題:**
 
 與寫實風景相比，印象派如何透過光影的模糊處理來影響觀者的視覺感受？請設計兩個不同風格的提示語，並比較它們的影像效果。
 
 **「以保羅·塞尚風格呈現的河邊景象，柔和的筆觸和明亮的色彩，水面倒映著天空。」**
-![image](https://github.com/user-attachments/assets/3262e515-e40f-4684-ab90-ff482fc0cd64)
+
+<img src="https://github.com/user-attachments/assets/3262e515-e40f-4684-ab90-ff482fc0cd64" alt="image" width="400">
+
 **「以愛德華·馬內風格呈現的河邊景象，柔和的筆觸和明亮的色彩，水面倒映著天空。」**
-![image](https://github.com/user-attachments/assets/c06c227e-4071-4f21-9170-e924e4682777)
+
+<img src="https://github.com/user-attachments/assets/c06c227e-4071-4f21-9170-e924e4682777" alt="image" width="400"> 
 
 ### [Lab 6: 表現主義肖像]
 **「一個情緒激動的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。」**
-![image](https://github.com/user-attachments/assets/461a26f7-5754-402a-9b63-724fbcd10347)
+<img src="https://github.com/user-attachments/assets/461a26f7-5754-402a-9b63-724fbcd10347" alt="image" width="400"> 
 
 **問題:**
 
 如何調整肖像中的色調與筆觸來表達不同的情緒？請設計兩種不同情緒的提示語，並分析其視覺與心理影響
 **「一個情緒憂鬱的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。」**
-![image](https://github.com/user-attachments/assets/88d7e967-5101-4e8a-8764-224f83252750)
+
+<img src="https://github.com/user-attachments/assets/88d7e967-5101-4e8a-8764-224f83252750" alt="image" width="400"> 
+
 **「一個情緒喜悅的人物肖像，使用鮮明的對比色彩和輕微的面部表情，靈感來自蒙克。」**
-![image](https://github.com/user-attachments/assets/8231d36c-24c7-4f7d-9aa4-08203b621463)
+
+<img src="https://github.com/user-attachments/assets/8231d36c-24c7-4f7d-9aa4-08203b621463" alt="image" width="400"> 
 
 ---
 ## 所屬分類 4：幾何與抽象藝術

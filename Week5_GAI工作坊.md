@@ -46,14 +46,16 @@
 
 ### [Lab 4: 現代城市夜景]
 **「夜晚的繁忙城市街道，霓虹燈閃爍，路面反射著雨後的光。」**
-![image](https://github.com/user-attachments/assets/2f4e1891-ac22-4c2a-81ac-8ed9ab223967 alt="image" width="400") 
+
+<img src="https://github.com/user-attachments/assets/2f4e1891-ac22-4c2a-81ac-8ed9ab223967" alt="image" width="400"> 
 
 **問題:**
 
 在不同的都市場景（如繁華商業區與安靜住宅區）中，如何透過燈光與色調的變化來傳達不同的氣氛？請設計對比性的提示語來探討這一概念。
 
 **「夜晚的安靜住宅區，只有月光和路燈照耀，天空閃爍微微星光。」**
-![image](https://github.com/user-attachments/assets/21b44cbf-bad9-4b9c-8529-3deb180587c3)
+
+<img src="https://github.com/user-attachments/assets/21b44cbf-bad9-4b9c-8529-3deb180587c3" alt="image" width="400"> 
 
 ---
 ## **所屬分類 3：印象派與表現主義**

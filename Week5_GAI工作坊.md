@@ -3,6 +3,7 @@
 ### [Lab 1: 卡通角色設計]
 **「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」**
 ![image](https://github.com/user-attachments/assets/3cb5ab79-6822-47ef-a7e6-6c9c4c857e49)
+<img src="https://github.com/user-attachments/assets/3cb5ab79-6822-47ef-a7e6-6c9c4c857e49" alt="image" width="400">
 ### **問題:**
 卡通角色的誇張特徵如何影響觀眾的情緒和角色塑造？請舉例說明，並探討如何微調特徵來改變角色的個性與情感表達。
 

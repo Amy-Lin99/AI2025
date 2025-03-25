@@ -4,12 +4,14 @@
 **「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」**
 
 <img src="https://github.com/user-attachments/assets/3cb5ab79-6822-47ef-a7e6-6c9c4c857e49" alt="image" width="400">
+
 ### **問題:**
 卡通角色的誇張特徵如何影響觀眾的情緒和角色塑造？請舉例說明，並探討如何微調特徵來改變角色的個性與情感表達。
 
 **「一隻憂鬱的卡通狗，流著淚，充滿陰鬱和沮喪的表情。」**
-![image](https://github.com/user-attachments/assets/99859f00-6682-41c5-a0da-8b5f015ea814)
+
 <img src="https://github.com/user-attachments/assets/99859f00-6682-41c5-a0da-8b5f015ea814" alt="image" width="400">
+
 ### [Lab 2: 超級英雄漫畫風格]
 **「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」**
 

@@ -46,7 +46,7 @@
 
 ### [Lab 4: 現代城市夜景]
 **「夜晚的繁忙城市街道，霓虹燈閃爍，路面反射著雨後的光。」**
-![image](https://github.com/user-attachments/assets/2f4e1891-ac22-4c2a-81ac-8ed9ab223967) alt="image" width="400"
+![image](https://github.com/user-attachments/assets/2f4e1891-ac22-4c2a-81ac-8ed9ab223967 alt="image" width="400") 
 
 **問題:**
 

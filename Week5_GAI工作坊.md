@@ -15,7 +15,7 @@
 ### [Lab 2: 超級英雄漫畫風格]
 **「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」**
 
-![image](https://github.com/user-attachments/assets/f42d110f-40e5-4cc2-a647-4e7021f3531c)
+<img src="https://github.com/user-attachments/assets/f42d110f-40e5-4cc2-a647-4e7021f3531c" alt="image" width="400">
 
 ### **問題:**
 

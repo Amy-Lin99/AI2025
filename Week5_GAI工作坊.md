@@ -21,7 +21,7 @@
 
 在設計超級英雄角色時，如何調整色彩、動作與服裝設計來強調其個性與超能力？請舉例分析不同風格的超級英雄對比。
 
-**「一位超級英雄正要飛上天際，瀟灑俐落，飽滿色彩，擁有操控火焰的能力，據日本漫畫風格。」**
+**「一位超級英雄正要飛上天際，瀟灑俐落，飽滿色彩，擁有操控火焰的能力，具日本漫畫風格。」**
 
 <img src="https://github.com/user-attachments/assets/336e6998-7d5a-442c-af26-ce8ef05403a2" alt="image" width="400">
 
@@ -29,16 +29,17 @@
 ## **所屬分類 2：基礎寫實風景系列**
 ### [Lab 3: 基礎寫實風景]
 **「清晨的森林景象，陽光穿過樹梢，地面覆蓋著濕潤的青苔和落葉。」**
-![image](https://github.com/user-attachments/assets/2e0fac49-16ab-489a-93d6-6072a218553d)
+
+<img src="https://github.com/user-attachments/assets/2e0fac49-16ab-489a-93d6-6072a218553d" alt="image" width="400">
 
 **問題:**
 
 如何通過調整光線、天氣與色調來影響風景畫面的情緒與故事性？請設計兩個不同時間段的提示語，並分析其視覺與情感上的變化。
 
 **「正午的森林景象，陽光照耀大地，地面覆蓋著乾燥的青苔和落葉。」**
-![image](https://github.com/user-attachments/assets/583a4b36-b73b-49ea-ac61-5e353d73d2da)
+<img src="https://github.com/user-attachments/assets/583a4b36-b73b-49ea-ac61-5e353d73d2da" alt="image" width="400">
 **「夜晚的森林景象，雨水傾覆，地面積水。」**
-![image](https://github.com/user-attachments/assets/24c0c945-ddaf-4701-b250-7c805ac945e1)
+<img src="https://github.com/user-attachments/assets/24c0c945-ddaf-4701-b250-7c805ac945e1" alt="image" width="400">
 
 ### [Lab 4: 現代城市夜景]
 **「夜晚的繁忙城市街道，霓虹燈閃爍，路面反射著雨後的光。」**

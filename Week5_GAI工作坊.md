@@ -37,13 +37,16 @@
 如何通過調整光線、天氣與色調來影響風景畫面的情緒與故事性？請設計兩個不同時間段的提示語，並分析其視覺與情感上的變化。
 
 **「正午的森林景象，陽光照耀大地，地面覆蓋著乾燥的青苔和落葉。」**
+
 <img src="https://github.com/user-attachments/assets/583a4b36-b73b-49ea-ac61-5e353d73d2da" alt="image" width="400">
+
 **「夜晚的森林景象，雨水傾覆，地面積水。」**
+
 <img src="https://github.com/user-attachments/assets/24c0c945-ddaf-4701-b250-7c805ac945e1" alt="image" width="400">
 
 ### [Lab 4: 現代城市夜景]
 **「夜晚的繁忙城市街道，霓虹燈閃爍，路面反射著雨後的光。」**
-![image](https://github.com/user-attachments/assets/2f4e1891-ac22-4c2a-81ac-8ed9ab223967)
+![image](https://github.com/user-attachments/assets/2f4e1891-ac22-4c2a-81ac-8ed9ab223967) alt="image" width="400"
 
 **問題:**
 

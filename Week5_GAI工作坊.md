@@ -96,16 +96,20 @@
 ## 所屬分類 4：幾何與抽象藝術
 ### [Lab 7: 幾何抽象設計]
 **「重疊的圓形和方形，使用鮮明的原色組合，具有包豪斯風格的抽象設計。」**
-![image](https://github.com/user-attachments/assets/e9af4c76-ebfc-42c0-945b-73f2db2776bf)
+
+<img src="https://github.com/user-attachments/assets/e9af4c76-ebfc-42c0-945b-73f2db2776bf" alt="image" width="400"> 
 
 **問題:**
 
 幾何抽象藝術如何影響視覺節奏與觀者的情緒？請設計一個基於冷色調與一個基於暖色調的提示語，並比較它們的視覺效果。
 
 **「重疊的圓形和方形，使用暖色調的原色組合，具有包豪斯風格的抽象設計。」**
-![image](https://github.com/user-attachments/assets/56ded2ed-3dd8-4ffa-8360-acab27f69278)
+
+<img src="https://github.com/user-attachments/assets/56ded2ed-3dd8-4ffa-8360-acab27f69278" alt="image" width="400"> 
+
 **「重疊的圓形和方形，使用暖色調的原色組合，具有包豪斯風格的抽象設計。」**
-![image](https://github.com/user-attachments/assets/f374137c-fffb-402d-bfd3-be9627046a60)
+
+<img src="https://github.com/user-attachments/assets/f374137c-fffb-402d-bfd3-be9627046a60" alt="image" width="400"> 
 
 ---
 ## 所屬分類 5：文藝復興與古典風格

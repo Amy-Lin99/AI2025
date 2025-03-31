@@ -1272,7 +1272,7 @@ AI 技術能夠幫助我們將腦海中的記憶轉化為具體的圖像，使�
 
 「請幫我生成一張新北市台北大學三峽校區心湖的圖片，請確保湖泊形狀接近心形。中間有一點小橋。請讓湖水呈現較深的藍綠色，綠色居多，並加入水生植物的浮島。 湖邊請種植綠樹與灌木叢，湖邊請設置步道、長椅與人們散步的場景。背景建築應為校園建築，如學生宿舍。**我愛台北大學**」
 
-![image](https://github.com/user-attachments/assets/cb703a73-f69b-4591-88fa-d09bdf2ae81f)
+<img src="https://github.com/user-attachments/assets/cb703a73-f69b-4591-88fa-d09bdf2ae81f" alt="image" width="400">
 
 
 

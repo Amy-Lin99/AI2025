@@ -1222,6 +1222,8 @@ AI 應用領域很多，建議根據興趣和目標來決定專攻的方向，�
 
 **2. AI 生成：**
 
+「請幫我生成一張新北市台北大學三峽校區心湖的圖片」
+
 <img src="https://github.com/user-attachments/assets/0c5ae1e6-7e4b-45f5-8e78-cc28a98feec5" alt="image" width="400">
 
 **3.差異分析：**

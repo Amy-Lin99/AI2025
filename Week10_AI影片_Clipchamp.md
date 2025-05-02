@@ -4,4 +4,4 @@
 
 ---
 ## Lab2: 請用Clipchamp或其他影音編輯工具，製作一支1-2分鐘的短片，包含AI口播語音、字幕及背景音樂或片尾曲。   
-https://youtu.be/XehzcZZGNy8 
+https://youtu.be/p0lHbWWgxBc

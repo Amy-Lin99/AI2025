@@ -2,14 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/365f449d-80c7-4a10-9817-ea1063788fde" alt="image" width="400">
 
-
-
 <img src="https://github.com/user-attachments/assets/64a33c18-b16c-4b48-a5f6-0e6954b59b8e" alt="image" width="400">
 
-
-
 <img src="https://github.com/user-attachments/assets/e317de6f-8f26-49a8-930d-73adb816853a" alt="image" width="400">
-
 
 ---
 # 🤖AI工具的超級專業行銷專家
@@ -90,7 +85,7 @@ ChatGPT：「完成囉～啾咪！」
 「我不會抄AI」五百遍。
 
 ## Lab 2: 故事腳本設計 by Special Prompt
-### 故事腳本設計
+### - 故事腳本設計
 **1. The Hook – "Unlocking the New Compass"**
 
 **EN:** Imagine entering a vast new city without a map—confusing, right? That’s how university life feels without the right tools.
@@ -134,7 +129,7 @@ ChatGPT：「完成囉～啾咪！」
 🔵 **Visual:** Fade to blue text: "AI 應用課程 開課中" / Button animation: 「馬上報名」閃爍光芒。
 
 
-### "口播字幕"文字的生成
+### - "口播字幕"文字的生成
 你有沒有試過，
 走進一座陌生的大學校園，
 手上一堆課本，腦袋卻像迷路一樣？
@@ -160,7 +155,7 @@ AI 的時代早就開始了，
 現在就加入我們的 AI 應用課程，
 和未來說一聲：我準備好了。
 
-### 最終吸晴標題
+### - 最終吸晴標題
 **主標:** 「AI: 走向未來的第一步」
 
 **副標:** 掌握智慧工具，讓大學生活不再迷失，開啟領先一步的學習之旅！

@@ -7,3 +7,5 @@
 
 ## Lab 3：敘事圖像創作
 <img src="https://github.com/user-attachments/assets/46e73ebb-70e8-46cb-8c95-aefab8f0b491" alt="image" width="400">
+
+## Lab 4：連續情節圖組設計

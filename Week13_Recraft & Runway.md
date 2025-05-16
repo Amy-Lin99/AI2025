@@ -12,12 +12,12 @@
 
 ## 🔹 Image Set 功能練習
 ### Lab 4：連續情節圖組設計
-<img src="https://github.com/user-attachments/assets/474e6f7e-3ee4-4ca8-87c8-8b17bc99c870" alt="image" width="400">
-<img src="https://github.com/user-attachments/assets/8a7d417b-5b6f-4dee-8a0b-2a82dfdd7940" alt="image" width="400">
-<img src="https://github.com/user-attachments/assets/a3946e9c-ba9f-4ffc-9e55-8a1a6d35e35b" alt="image" width="400">
-<img src="https://github.com/user-attachments/assets/a980c5c9-5164-4680-b9e1-7ee5c4090668" alt="image" width="400">
-<img src="https://github.com/user-attachments/assets/b9f3be45-b47e-4ba3-8d20-d781b4b5ced3" alt="image" width="400">
-<img src="https://github.com/user-attachments/assets/c21437bf-0cb5-47b5-b5c9-ca345e791913" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/a3b16cbe-3b96-4ece-8b86-e25c7a851e52" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/c6adbd18-e42b-4a0b-9177-cd20b4a1f158" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/e5a4aebc-cb1c-4b42-a733-08334f077f98" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/f62c6a07-772b-4974-bf0c-376ba1efb047" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/a13e8a06-a1fa-4b9f-95f9-3662a0d0cf42" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/3eb77ecf-51bc-44d2-a3db-781260e4596d" alt="image" width="400">
 
 ---
 # 🎨Runway ML🧠

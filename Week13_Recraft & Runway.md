@@ -26,3 +26,7 @@ https://app.runwayml.com/creation/fab75761-8ba4-4cc3-ac20-a0b9383274da
 
 ## 🧪 Lab 2：角色互動與敘事 – 進階練習
 https://app.runwayml.com/creation/6d8d2289-fe5f-455d-9356-fb7815d3b9d7
+
+---
+# 🎬Integration = Script + Image + Music + Others: 影片剪輯
+https://youtube.com/shorts/mzP-Lx623ic

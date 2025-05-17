@@ -29,4 +29,4 @@ https://app.runwayml.com/creation/6d8d2289-fe5f-455d-9356-fb7815d3b9d7
 
 ---
 # 🎬Integration = Script + Image + Music + Others: 影片剪輯
-https://youtube.com/shorts/mzP-Lx623ic
+https://youtube.com/shorts/kTSjKhwSJ3Q

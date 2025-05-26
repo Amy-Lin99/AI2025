@@ -1,91 +1,69 @@
-# Week 14 AI必學程式語言 — Python 的應用
+# AI 必學的程式語言？Python？應用？
+---
+
+## 🅰️ Part A：Google Colab 的優勢與實作
+
+### 💡 為什麼選 Google Colab？
+
+這部分介紹了 Colab 的 10 大優勢，例如：
+
+* 免費使用與 GPU 支援
+* 免安裝、內建雲端硬碟整合
+* 支援 Markdown、單元測試、多人協作等
+
+### 🔬 Lab 實作活動（Lab 0 – Lab 10）：
+
+這些活動讓學生實際熟悉 Colab 環境與基本操作，包括：
+
+* 建立新 Notebook、改檔名
+* 開啟 GPU 模式、查看硬體資訊
+* 加入 Markdown 標題
+* 將 Notebook 儲存到 Google Drive
+* 使用 `!ls` 查看目錄、建立新資料夾
+* 下載與預覽經典資料集 iris.csv
+* 掛載 Google Drive、列出資料夾內容
+
+✅ 目的：讓學生能在 Colab 上順利開始進行 AI / 資料科學 / 機器學習 專案。
 
 ---
 
-## A. 為何選 Google Colab？
+## 🅱️ Part B：Python 快速入門教學 + 小挑戰實作
 
-* **免費使用**，省下鈔票，讓時間花在編程，不用煩惱錢包
-* **免安裝**，瀏覽器打開，立刻寫代碼
-* **免費GPU**， NVIDIA T4/A100，高效能，讓深度學習順暢
-* **完美結合 Google Drive**，專案檔案輕鬆存取，資料夾共享簡單
-* **多人即時協作**，不論是在宿舍還是咖啡館，和夥伴一起熱烈討論專案，享受協作
+這部分是幫助初學者快速掌握 Python 語言，透過「模組應用」、「數字運算」、「資料型別」、「邏輯判斷」等主題來實作。
 
----
+### 🎯 Segment 1：模組與日曆應用
 
-### 如何快速上手 Colab
+* 使用 `calendar` 模組印出年份日曆、某月月曆
+* 透過 `input()` 讓使用者輸入年份、生日，自動找出是星期幾
 
-1. 打開Colab → `File ▸ New Notebook`
-2. 立刻執行第一行代碼：`print("Hello, sexy Python!")`
-3. 記得啟用 GPU（`Runtime ▸ Change runtime type ▸ Hardware accelerator ▸ GPU`）
+### 🎯 Segment 2：數字與運算
 
-```python
-!nvidia-smi -L
-```
+* 四則運算、冪次方、整數除法與餘數
+* 攝氏轉華氏溫度計算器
+* 計算三角形面積、列出乘冪表
 
----
+### 🎯 Segment 3：資料型別與 `type()` 使用
 
-## B. Python 快速入門 
+* 使用 `type()` 確認變數資料型別
+* C語言程式碼與 Python 對照（Type Demo）
+* 類型轉換練習，例如 `str → int`
 
-### 1. 為什麼要學 Python？
+### 🎯 Segment 4：流程控制與布林邏輯
 
-* **語法簡單，容易上手**，不用被複雜的規則綁住
-* **功能強大，生態豐富**，不論資料科學、機器學習、還是自動化
-* **廣泛應用於 AI 領域**，讓作品充滿智慧與未來感
-* **跨平台自由**，電腦、雲端隨時隨地用
-* **活躍社群**，永遠有夥伴一起挑戰新高度
+* if / elif / else 邏輯分支
+* 偶數奇數檢查器
+* 密碼驗證系統
+* AND / OR 布林邏輯表
 
 ---
 
-### 2. 實戰練習快速體驗
+## 🧠 總結：
 
-**Demo 1: 取得 2025 年整年度月曆**
+這堂課是一堂非常適合入門 AI / Python / Colab 的基礎課程，重點包括：
 
-```python
-import calendar
-print(calendar.calendar(2025))
-```
-
----
-
-**Lab: 用 Python 玩轉生日**
-
-```python
-import calendar
-y = int(input("輸入出生年："))
-m = int(input("輸入出生月："))
-d = int(input("輸入出生日："))
-weekday = calendar.weekday(y, m, d)
-days = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
-print(f"出生在{days[weekday]}")
-```
-
----
-
-**Demo 2: 小小計算，玩轉轉換**
-
-```python
-c = float(input("請輸入攝氏溫度："))
-f = c * 9 / 5 + 32
-print(f"{c}°C 轉成華氏是 {f}°F，熱情不減！")
-```
-
----
-
-### 3. 用 Python 玩出風格
-
-* 控制流程：`if`條件判斷，讓程式定
-* 字串操作：翻轉句子
-* 迴圈：重複節奏
-* List操作：收納整理
-
----
-
-**小挑戰：**
-
-```python
-# 印出倒三角星星形狀
-for i in range(5, 0, -1):
-    print(" " * (5 - i) + "★ " * i)
-```
-
+| 重點學習    | 說明                                  |
+| ------- | ----------------------------------- |
+| 📌 工具使用 | 熟悉 Colab 操作、雲端環境與 GPU 設定            |
+| 📌 程式實作 | 實際用 Python 解決簡單問題與邏輯挑戰              |
+| 📌 整合能力 | 鼓勵將 Lab 成果整合進 GitHub Pages，展示個人專案作品 |
 

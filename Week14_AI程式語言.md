@@ -65,47 +65,36 @@
 ### 01. Challenge 1 Write Python Code by Results
 
     sum = 0
-
+    
     for i in range(1,11):
-
       sum = sum + i
-  
     print('1+2+3+...+10 = 55, and your results?',sum)
 
 ### 02. Challenge 2 For Loop
 
     for i in range(1, 10, 1):
-
         print(i, "T" * i)
-    
     for i in range(10, 0, -1):
-
         print(i, "+" * i)
 
 ### 03. Challenge 3 Input + For Loop
 
     stage = int(input("Input stage number: ")) 
-
-    for i in range(1, stage+1, 1):
-
-        print(i, "T" * i)
     
+    for i in range(1, stage+1, 1):
+        print(i, "T" * i)
     for i in range(stage, 0, -1):
-
         print(i, "+" * i)
 
 ### 04. Nest Loop
 
     for i in range(1,10):
-
       print("%d X %d = %d" % (9, i, 9 * i))
 
 ### 04. Nest Loop
 
     for i in range(3): 
-
         for j in range(1, 4):  
-    
             print("%d X %d = %d" % (9, j, 9 * j))
 
 ### 05. if ~ else
@@ -114,24 +103,18 @@
     CheckName = input('Input Your Name:')
 
     if YourName == CheckName:
-
       print('You are a right user!!')
-  
     else:
-
       print('User name is NOT found!')
 
 ## 05. if ~ else
     YourPassword = 'hello2024'
-
+    
     CheckPassword = input('Input Your Password:')
 
     if YourPassword == CheckPassword:
-
       print('Correct password!')
-  
     else:
-
       print('Wrong password!')
 
 ---

@@ -59,81 +59,80 @@
 ## 5個小挑戰
 ### 01. Challenge 1 Write Python Code by Results
 
-for i in range(10, 0, -2):
-
-    print("test:", i)
+    for i in range(10, 0, -2):
+        print("test:", i)
     
 ### 01. Challenge 1 Write Python Code by Results
 
-sum = 0
+    sum = 0
 
-for i in range(1,11):
+    for i in range(1,11):
 
-  sum = sum + i
+      sum = sum + i
   
-print('1+2+3+...+10 = 55, and your results?',sum)
+    print('1+2+3+...+10 = 55, and your results?',sum)
 
 ### 02. Challenge 2 For Loop
 
-for i in range(1, 10, 1):
+    for i in range(1, 10, 1):
 
-    print(i, "T" * i)
+        print(i, "T" * i)
     
-for i in range(10, 0, -1):
+    for i in range(10, 0, -1):
 
-    print(i, "+" * i)
+        print(i, "+" * i)
 
 ### 03. Challenge 3 Input + For Loop
 
-stage = int(input("Input stage number: ")) 
+    stage = int(input("Input stage number: ")) 
 
-for i in range(1, stage+1, 1):
+    for i in range(1, stage+1, 1):
 
-    print(i, "T" * i)
+        print(i, "T" * i)
     
-for i in range(stage, 0, -1):
+    for i in range(stage, 0, -1):
 
-    print(i, "+" * i)
+        print(i, "+" * i)
 
 ### 04. Nest Loop
 
-for i in range(1,10):
+    for i in range(1,10):
 
-  print("%d X %d = %d" % (9, i, 9 * i))
+      print("%d X %d = %d" % (9, i, 9 * i))
 
 ### 04. Nest Loop
 
-for i in range(3): 
+    for i in range(3): 
 
-    for j in range(1, 4):  
+        for j in range(1, 4):  
     
-        print("%d X %d = %d" % (9, j, 9 * j))
+            print("%d X %d = %d" % (9, j, 9 * j))
 
 ### 05. if ~ else
-YourName = 'Grace'
+    YourName = 'Grace'
 
-CheckName = input('Input Your Name:')
+    CheckName = input('Input Your Name:')
 
-if YourName == CheckName:
+    if YourName == CheckName:
 
-  print('You are a right user!!')
+      print('You are a right user!!')
   
-else:
+    else:
 
-  print('User name is NOT found!')
+      print('User name is NOT found!')
 
 ## 05. if ~ else
-YourPassword = 'hello2024'
+    YourPassword = 'hello2024'
 
-CheckPassword = input('Input Your Password:')
+    CheckPassword = input('Input Your Password:')
 
-if YourPassword == CheckPassword:
+    if YourPassword == CheckPassword:
 
-  print('Correct password!')
+      print('Correct password!')
   
-else:
+    else:
 
-  print('Wrong password!')
+      print('Wrong password!')
 
 ---
 ## 🧠 總結：

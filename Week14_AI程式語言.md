@@ -56,6 +56,15 @@
 * AND / OR 布林邏輯表
 
 ---
+## 5個小挑戰
+### 01. Challenge 1 Write Python Code by Results
+for i in range(10, 0, -2):
+    print("test:", i)
+### 01. Challenge 1 Write Python Code by Results
+sum = 0
+for i in range(1,11):
+  sum = sum + i
+print('1+2+3+...+10 = 55, and your results?',sum)
 
 ## 🧠 總結：
 

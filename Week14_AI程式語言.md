@@ -1,6 +1,6 @@
 # AI 必學的程式語言？Python？應用？
-
 Colab:https://colab.research.google.com/drive/1d4j8qXgjzBZE9Etb3QyAB1FTaNUN8RCv#scrollTo=MBGtjfyb8omC
+
 ---
 
 ## 🅰️ Part A：Google Colab 的優勢與實作
